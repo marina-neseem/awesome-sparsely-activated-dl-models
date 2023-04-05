@@ -32,7 +32,7 @@ Riquelme, C., Puigcerver, J., Mustafa, B., Neumann, M., Jenatton, R., Susano Pin
 
 ### Transformer-based
 
--Fedus, W., Zoph, B., & Shazeer, N. (2022). Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity. The Journal of Machine Learning Research, 23(1), 5232-5270.
+- Fedus, W., Zoph, B., & Shazeer, N. (2022). Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity. The Journal of Machine Learning Research, 23(1), 5232-5270.
 - Lepikhin, D., Lee, H., Xu, Y., Chen, D., Firat, O., Huang, Y., & Chen, Z. (2020). Gshard: Scaling giant models with conditional computation and automatic sharding. arXiv preprint arXiv:2006.16668.
 - Correia, G. M., Niculae, V., & Martins, A. F. (2019). Adaptively sparse transformers. arXiv preprint arXiv:1909.00015.
 Scaling Transformer
@@ -42,4 +42,4 @@ Product Key Memory
 
 ## Other Applications
 - M. Neseem, J. Nelson and S. Reda, "AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices," 2020 57th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2020, pp. 1-6, doi: 10.1109/DAC18072.2020.9218568.
--A. N.K., G. Bhat, J. Park, H. G. Lee and U. Y. Ogras, "Sensor-Classifier Co-Optimization for Wearable Human Activity Recognition Applications," 2019 IEEE International Conference on Embedded Software and Systems (ICESS), Las Vegas, NV, USA, 2019, pp. 1-4, doi: 10.1109/ICESS.2019.8782506.
+- A. N.K., G. Bhat, J. Park, H. G. Lee and U. Y. Ogras, "Sensor-Classifier Co-Optimization for Wearable Human Activity Recognition Applications," 2019 IEEE International Conference on Embedded Software and Systems (ICESS), Las Vegas, NV, USA, 2019, pp. 1-4, doi: 10.1109/ICESS.2019.8782506.
